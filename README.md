@@ -1,2 +1,1 @@
-# gas-prices.github.io
-Gas Prices
+#404 Error
