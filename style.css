@@ -5,6 +5,12 @@ body {
 }
 table, th, td {
    border: 1px solid black;
+   border-collapse: collapse;
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    vertical-align: bottom;
+    padding: 15px;
    
 }
 
