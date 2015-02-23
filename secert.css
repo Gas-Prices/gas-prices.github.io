@@ -1,1 +1,12 @@
-
+body { 
+  color : #D80000 ;
+  font-family : "Comic Sans MS";
+  background-image : url("http://www.fightersgeneration.com/characters/deejay-winpose1.gif");
+}
+table, td {
+    border: 1px solid #B0B0B0;
+    border-collapse: collapse;
+}
+td {
+    padding: 15px;
+}
