@@ -3,5 +3,8 @@ body {
   font-family : "Comic Sans MS";
   background-image : url("http://slowbuddy.com/wp-content/gallery/plain-background/cool-background-textures-ca_textures.jpg");
 }
-
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
