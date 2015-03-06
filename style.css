@@ -1,9 +1,7 @@
 body { 
   color : Red;
   font-family : "Comic Sans MS";
-  background-image : url("http://wallpapers87.com/wallpapers-n/dark-error-404-not-found-_315453-6.jpg");
-  background-repeat: no-repeat;
-  background-position:  left center;
+  background-color : "Black";
 }
 table, td {
     border: 1px solid #B0B0B0;
@@ -14,4 +12,7 @@ td {
 }
 image {
   float: right;
+}
+h1 {
+  background-color: SlateGrey;
 }
